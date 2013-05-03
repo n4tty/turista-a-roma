@@ -2,7 +2,7 @@
 --------------------------------------------------------
 FASE 1 
 
-	1) studio fattibilità 
+	1) studio fattibilitï¿½ 
 		Riferimento: CAP 3
 		- SRS *introduzione
 		- SRS *glossario
@@ -28,7 +28,7 @@ FASE 1
 		- SRS *appendici
 
 ----------------------------------------------------------
-FASE 2
+FASE 2 owned by n4tty
 	1) Implementazione
 		Riferimento: CAP 7 - CAP 8
 
