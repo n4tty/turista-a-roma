@@ -1,0 +1,35 @@
+
+--------------------------------------------------------
+FASE 1 
+
+	1) studio fattibilità 
+		Riferimento: CAP 3
+		- SRS *introduzione
+		- SRS *glossario
+		
+	2) elicitation (estrazione dei requisiti)
+		Riferimento: CAP 5 - CAP 10
+		- SRS *user requirements 
+			-Requisiti Funzionali
+			-Requisiti Non Funzionali
+			-Come verranno Testati (Cap 10)
+		- SRS *system requirements
+			-Requisiti Funzionali
+			-Requisiti Non Funzionali
+			-Come verranno Testati (Cap 10)
+
+	3) analysis (analisi dei requisiti)
+		Riferimento: CAP 6
+		- SRS *system architectural models
+
+	4) gestione e convalida dei requisiti
+		Riferimento: CAP 6.2.9
+		- SRS *process and evolution
+		- SRS *appendici
+
+----------------------------------------------------------
+FASE 2
+	1) Implementazione
+		Riferimento: CAP 7 - CAP 8
+
+----------------------------------------------------------
